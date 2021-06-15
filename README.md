@@ -1,5 +1,7 @@
 # Muck-BepInEx-Plugins
 
-I will add plugins here for Muck-BepInEx
+Some much BepInEx plugins
+
+Join the Muck modding discord! https://discord.gg/M27wjFAfTQ
 
 
